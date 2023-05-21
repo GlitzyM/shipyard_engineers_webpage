@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shipyard_engineers_webpage/static/css/main.a03f3c3f.css",
+    "main.js": "/shipyard_engineers_webpage/static/js/main.bc5e6e00.js",
+    "static/js/787.ce6260e9.chunk.js": "/shipyard_engineers_webpage/static/js/787.ce6260e9.chunk.js",
+    "index.html": "/shipyard_engineers_webpage/index.html",
+    "main.a03f3c3f.css.map": "/shipyard_engineers_webpage/static/css/main.a03f3c3f.css.map",
+    "main.bc5e6e00.js.map": "/shipyard_engineers_webpage/static/js/main.bc5e6e00.js.map",
+    "787.ce6260e9.chunk.js.map": "/shipyard_engineers_webpage/static/js/787.ce6260e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03f3c3f.css",
+    "static/js/main.bc5e6e00.js"
+  ]
+}
